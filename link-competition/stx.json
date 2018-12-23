@@ -1,16 +1,16 @@
 {
-	    "jsonrpc": "2.0",
-	        "method": "icx_sendTransaction",
-		    "id": 1234,
-		        "params": {
-				        "version": "0x3",
-					        "from": "hx20a063024c284cbb9a774213cf6d81be1bc794d2",
-						        "to": "hxac0790557f2dbd4f1290eaa06782f21c95795e56",
-							        "value": "0x20020",
-								        "stepLimit": "0x1234500",
-									        "timestamp": "0x563a6cf330137",
-										        "nid": "0x3",
-											        "nonce": "0x1",
-												        "signature": "VAia7YZ2Ji6igKWzjR2YsGa2m53nKPrfK7uXYW78QLE+ATehAVZPC40szvAiA6NEU5gCYB4c4qaQzqDh2ugcHgA="
-													    }
+	"jsonrpc": "2.0",
+	"method": "icx_sendTransaction",
+	"id": 1234,
+	"params": {
+		"version": "0x3",
+		"from": "hx20a063024c284cbb9a774213cf6d81be1bc794d2",
+		"to": "hxac0790557f2dbd4f1290eaa06782f21c95795e56",
+		"value": "0x20020",
+		"stepLimit": "0x1234500",
+		"timestamp": "0x563a6cf330137",
+		"nid": "0x3",
+		"nonce": "0x1",
+		"signature": "VAia7YZ2Ji6igKWzjR2YsGa2m53nKPrfK7uXYW78QLE+ATehAVZPC40szvAiA6NEU5gCYB4c4qaQzqDh2ugcHgA="
+	}
 }
